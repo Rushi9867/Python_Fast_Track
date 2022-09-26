@@ -1,0 +1,4 @@
+2022-05-19 12:26:07,777-INFO-This is my first code for log
+2022-05-19 12:28:14,250-INFO-This is info for logger one
+2022-05-19 12:28:14,251-DEBUG-This is a debug for logger two
+2022-05-19 12:28:14,252-INFO-This is info for logger two

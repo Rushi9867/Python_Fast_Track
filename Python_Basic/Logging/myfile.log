@@ -1,0 +1,11 @@
+2022-09-22 17:54:08,677 This is a error!
+2022-09-22 17:54:11,053 Error has occured
+2022-09-22 17:54:11,053 division by zero
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Temp\ipykernel_14640\2304976829.py", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2022-09-22 17:54:38,073 this is my error log
+2022-09-22 17:54:38,073 this is my exception log
+NoneType: None
+2022-09-22 17:54:38,073 this is my critical log 

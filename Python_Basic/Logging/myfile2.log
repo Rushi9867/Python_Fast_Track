@@ -1,0 +1,13 @@
+INFO:root:this is info log
+WARNING:root:this is my warning log
+ERROR:root:this is my error log
+ERROR:root:this is my exception log
+NoneType: None
+CRITICAL:root:this is my critical log 
+INFO:root:This is my addition function
+INFO:root:2
+INFO:root:3
+INFO:root:78
+INFO:root:5
+INFO:root:43
+INFO:root:8

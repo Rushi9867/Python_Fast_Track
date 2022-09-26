@@ -1,0 +1,11 @@
+2022-09-05 19:48:58,666 - Logging Started
+2022-09-05 19:48:58,679 - Establishing connection........
+2022-09-05 19:48:58,680 - Connection Established with the database!!
+2022-09-05 19:48:58,709 - Creating Table.......
+2022-09-05 19:48:58,750 - Table Created!!
+2022-09-05 19:48:58,752 - Starting Record insertion....
+
+2022-09-05 19:49:00,963 - Record 10721 Inserted
+2022-09-05 19:49:00,964 - All Records Inserted
+2022-09-05 19:49:00,980 - Connection Closed
+2022-09-05 19:49:42,708 - NumExpr defaulting to 4 threads.
