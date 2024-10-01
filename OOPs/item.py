@@ -22,7 +22,7 @@ class Item:
         return self.__price
     
     def apply_discount(self):
-        self.__price = self.__price * Item.pay_rate
+        self.__price = self.__price * self.pay_rate
     
     
     def apply_increment(self,increment_value):
@@ -46,7 +46,7 @@ class Item:
     
     @classmethod
     def instantiate_from_csv(cls):
-        with open('items.csv','r') as f:
+        with open('D:\Programs\Python\Python_Fast_Track\OOPs\items.csv','r') as f: #with open('items.csv','r') as f:
             reader = csv.DictReader(f)
             items = list(reader)
         

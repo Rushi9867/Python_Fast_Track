@@ -24,7 +24,7 @@ class Phone(Item):
         return self.__price
     
     def apply_discount(self):
-        self.__price = self.__price * Item.pay_rate
+        self.__price = self.__price * self.pay_rate
     
     
     def apply_increment(self,increment_value):
