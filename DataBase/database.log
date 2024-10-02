@@ -9,3 +9,35 @@
 2022-09-05 19:49:00,964 - All Records Inserted
 2022-09-05 19:49:00,980 - Connection Closed
 2022-09-05 19:49:42,708 - NumExpr defaulting to 4 threads.
+2024-10-01 16:59:55,193 - Logging Started
+2024-10-01 16:59:55,270 - 1049 (42000): Unknown database 'carbon'
+2024-10-01 17:00:57,931 - Logging Started
+2024-10-01 17:00:57,948 - Establishing connection........
+2024-10-01 17:00:57,948 - Connection Established with the database!!
+2024-10-01 17:00:57,948 - 1046 (3D000): No database selected
+2024-10-01 17:03:16,634 - Logging Started
+2024-10-01 17:03:16,642 - Establishing connection........
+2024-10-01 17:03:16,642 - Connection Established with the database!!
+2024-10-01 17:03:16,651 - 1046 (3D000): No database selected
+2024-10-01 17:05:04,431 - Logging Started
+2024-10-01 17:05:04,444 - Establishing connection........
+2024-10-01 17:05:04,444 - Connection Established with the database!!
+2024-10-01 17:05:04,452 - 1046 (3D000): No database selected
+2024-10-01 17:07:30,172 - Logging Started
+2024-10-01 17:07:30,207 - Establishing connection........
+2024-10-01 17:07:30,214 - Connection Established with the database!!
+2024-10-01 17:07:30,217 - 1046 (3D000): No database selected
+2024-10-01 17:08:18,060 - Logging Started
+2024-10-01 17:08:18,084 - Establishing connection........
+2024-10-01 17:08:18,092 - 1046 (3D000): No database selected
+2024-10-01 17:11:48,824 - Logging Started
+2024-10-01 17:11:48,856 - Establishing connection........
+2024-10-01 17:11:48,872 - DataBase Created!!
+2024-10-01 17:11:48,895 - Connection Established with the database!!
+2024-10-01 17:11:48,905 - Creating Table.......
+2024-10-01 17:11:48,939 - Table Created!!
+2024-10-01 17:11:48,939 - Starting Record insertion....
+
+2024-10-01 17:11:50,765 - Record 10721 Inserted
+2024-10-01 17:11:50,780 - All Records Inserted
+2024-10-01 17:11:50,784 - Connection Closed
