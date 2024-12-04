@@ -1,5 +1,18 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+Django/Hello/Hello/__pycache__
+Django/Hello/hello_app1/__pycache__
+Django/hello_world/hello_world/__pycache__
+Flask/__pycache__
+flask_demo/__pycache__
+FlipkratScrappingProject/__pycache__
+Modules/mymodules/__pycache__
+OOPs/__pycache__
+Python_Basic/__pycache__
+Tkinter/__pycache__
+Tkinter/Project/__pycache__
+Web_Scraping/__pycache__
+
 *.py[cod]
 *$py.class
 
@@ -77,6 +90,31 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+200 solved problems in Python/array/.ipynb_checkpoints
+200 solved problems in Python/basic/.ipynb_checkpoints
+200 solved problems in Python/class/.ipynb_checkpoints
+200 solved problems in Python/condition and loop/.ipynb_checkpoints
+200 solved problems in Python/datetime/.ipynb_checkpoints
+200 solved problems in Python/dictionary/.ipynb_checkpoints
+200 solved problems in Python/file/.ipynb_checkpoints
+200 solved problems in Python/list/.ipynb_checkpoints
+200 solved problems in Python/math/.ipynb_checkpoints
+200 solved problems in Python/numpy/.ipynb_checkpoints
+200 solved problems in Python/pandas/.ipynb_checkpoints
+200 solved problems in Python/recursion/.ipynb_checkpoints
+200 solved problems in Python/regex/.ipynb_checkpoints
+200 solved problems in Python/search/.ipynb_checkpoints
+200 solved problems in Python/sort/.ipynb_checkpoints
+200 solved problems in Python/string/.ipynb_checkpoints
+200 solved problems in Python/array/.ipynb_checkpoints
+DataBase/.ipynb_checkpoints
+EDA/.ipynb_checkpoints
+Interview/.ipynb_checkpoints
+Modules/mymodules/.ipynb_checkpoints
+Python_Basic/.ipynb_checkpoints
+Statistics/.ipynb_checkpoints
+Visualization/.ipynb_checkpoints
+Web_Scraping/.ipynb_checkpoints
 
 # IPython
 profile_default/
