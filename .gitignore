@@ -1,10 +1,9 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
 Django/Hello/Hello/__pycache__
 Django/Hello/hello_app1/__pycache__
 Django/hello_world/hello_world/__pycache__
 Flask/__pycache__
-flask_demo/__pycache__/
+flask_demo/__pycache__
 FlipkratScrappingProject/__pycache__
 Modules/mymodules/__pycache__
 OOPs/__pycache__
@@ -12,6 +11,7 @@ Python_Basic/__pycache__
 Tkinter/__pycache__
 Tkinter/Project/__pycache__
 Web_Scraping/__pycache__
+__pycache__/
 
 *.py[cod]
 *$py.class
